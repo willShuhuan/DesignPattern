@@ -3,7 +3,7 @@ package com.dsh.designpattern.prototype;
 /**
  * @author DSH
  * @date 2020/7/1
- * @description
+ * @description   原型模式测试代码
  */
 public class Client {
     public static void main(String[] args) {

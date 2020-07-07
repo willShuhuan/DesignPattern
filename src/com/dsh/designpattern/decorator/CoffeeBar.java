@@ -3,7 +3,7 @@ package com.dsh.designpattern.decorator;
 /**
  * @author DSH
  * @date 2020/7/4
- * @description
+ * @description  装饰者模式测试代码
  */
 public class CoffeeBar {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package com.dsh.designpattern.bridge;
 /**
  * @author DSH
  * @date 2020/7/3
- * @description
+ * @description 桥接模式测试代码
  */
 public class Client {
     public static void main(String[] args) {
