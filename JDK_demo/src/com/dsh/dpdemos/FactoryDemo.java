@@ -5,7 +5,7 @@ import java.util.Calendar;
 /**
  * @author DSH
  * @date 2020/7/1
- * @description
+ * @description 工厂模式在jdk中的应用
  */
 public class FactoryDemo {
     public static void main(String[] args) {

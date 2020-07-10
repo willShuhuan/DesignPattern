@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @author DSH
  * @date 2020/7/7
- * @description
+ * @description  组合模式在jdk中的应用
  */
 public class CompositeDemo {
     public static void main(String[] args) {

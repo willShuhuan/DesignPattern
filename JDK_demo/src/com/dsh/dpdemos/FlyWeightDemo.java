@@ -3,7 +3,7 @@ package com.dsh.dpdemos;
 /**
  * @author DSH
  * @date 2020/7/7
- * @description
+ * @description 享元模式在jdk中的应用
  */
 public class FlyWeightDemo {
     public static void main(String[] args) {
