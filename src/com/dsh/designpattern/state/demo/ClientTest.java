@@ -17,20 +17,16 @@ public class ClientTest {
         System.out.println(context.getCurrentState());
 
 
-        //		//publish --> not pay
+        //publish --> not pay
         context.acceptOrderEvent(context);
-        //		//not pay --> paid
+        //not pay --> paid
         context.payOrderEvent(context);
-        //	// 失败, 检测失败时，会抛出异常
+        // 失败, 检测失败时，会抛出异常
         try {
             context.checkFailEvent(context);
             System.out.println("流程正常..");
         } catch (Exception e) {
-
-            //	// TODO: handle exception
-            //	System.out.println(e.getMessage());
-            //	}
-
+            //System.out.println(e.getMessage());
         }
 
     }
